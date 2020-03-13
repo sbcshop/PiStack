@@ -9,3 +9,6 @@
 * USB external power port, provides enough power supply for multi HATs.
 * Clear and descriptive pin labels for easy use.
 * Reserved jumper pads on the bottom side, pin connections are changeable by soldering, to avoid pin conflicts.
+
+## Dimensions
+* 33 x 8 x 1.5 cm (Approx.)
